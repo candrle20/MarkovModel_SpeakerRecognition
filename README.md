@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/O2G_bdRs)
-# MPCS 51042 Python Programming Final Project
+# Markov Model Speaker Recognition 
 
 ## Introduction
 
@@ -276,4 +275,5 @@ Your code should save this graph as `execution_graph.png`.
 - Make sure you are using the correct value for S, the number of unique characters that appeared in the training text.
 
 ## Acknowledgment
+This project was completed as part of the University of Chicago's MPCS50142 Python Programming course
 This assignment’s text and documentation originated from CAPP 30122 Team @ The University of Chicago. The original development of the assignment was done by Rob Schapire with contributions from Kevin Wayne.
